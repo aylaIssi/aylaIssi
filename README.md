@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I'm Ayla, an aspiring data scientist with a passion for exploring and analyzing data to derive valuable insights. While I'm relatively new to the field, I'm enthusiastic about leveraging the power of data for decision-making and problem-solving.
+I'm Ayla, an aspiring data scientist with a passion for exploring and analyzing data to derive valuable insights. While I'm relatively new to the field, I'm enthusiastic about leveraging the power of data for decision-making and problem-solving.
 
 **Areas of Focus:**
 - Machine Learning
