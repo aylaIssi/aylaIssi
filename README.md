@@ -18,10 +18,6 @@
 - SQL 💻
 
 
-
-**Connect With Me:**
-I'm eager to connect with experienced data scientists, mentors, and fellow learners. You can reach out to me through:
-
 [LinkedIn](www.linkedin.com/in/aylaissi)
 [Twitter](https://twitter.com/aylanrcnss)
 [Email](mailto:ayla.nurcanl@gmail.com)
