@@ -15,12 +15,10 @@
 - Customer Lifetime Value (CLTV) Analysis 💰
 
 ### 💼 Skills:
-
-- Python 🐍
-- Pandas 🐼
-- Matplotlib 📊
-- Scikit-Learn 🧠
-- SQL 💻
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Git Stats
 ![](https://github-readme-stats.vercel.app/api?username=aylaIssi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
