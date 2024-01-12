@@ -1,5 +1,5 @@
 ### Hi👋
-🚀 I'm Ayla, a data aficionado with a fervor for unraveling insights from the intricacies of data. As an aspiring data scientist, I'm dedicated to harnessing the transformative power of data for strategic decision-making and innovative problem-solving.
+🚀 I'm Ayla, a data scientist who loves exploring and understanding data intricacies to uncover valuable insights. As an aspiring data scientist, I'm dedicated to harnessing the transformative power of data for strategic decision-making and innovative problem-solving.
 
 ### 🔍 Areas of Focus:
 
