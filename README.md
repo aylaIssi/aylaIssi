@@ -22,6 +22,9 @@
 - Scikit-Learn 🧠
 - SQL 💻
 
+### Git Stats
+![](https://github-readme-stats.vercel.app/api?username=aylaIssi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 [LinkedIn](www.linkedin.com/in/aylaissi)
 [Twitter](https://twitter.com/aylanrcnss)
