@@ -27,7 +27,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/aylaiss](https://www.linkedin.com/in/aylaissi/)i)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylaissi/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aylanrcnss)
 [![Mail Badge](https://img.shields.io/badge/ayla.nurcan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ayla.nurcan@gmail.com)](mailto:ayla.nurcan@gmail.com)
 
