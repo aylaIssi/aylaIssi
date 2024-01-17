@@ -6,6 +6,9 @@
 
 🚀 I'm Ayla, a data scientist who loves exploring and understanding data intricacies to uncover valuable insights. As an aspiring data scientist, I'm dedicated to harnessing the transformative power of data for strategic decision-making and innovative problem-solving.
 
+<p><img align="right" src="https://komarev.com/ghpvc/?username=aylaIssi&style=flat-square&color=blue" alt=""/> </p>
+
+
 ---
 
 ### 🛠 Languages and Tools:
